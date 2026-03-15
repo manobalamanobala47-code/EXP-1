@@ -48,7 +48,7 @@ a.   KVL:
 
 ![img alt]()
 b.  KCL:
- ![img alt]()
+ ![img alt](https://github.com/manobalamanobala47-code/EXP-1/blob/main/kcl.png)
 ![img alt]()
 Calculation:
 
