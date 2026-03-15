@@ -53,7 +53,7 @@ b.  KCL:
 Calculation:
 
 a.   KVL:
- ![img alt]()
+ ![img alt](https://github.com/manobalamanobala47-code/EXP-1/blob/main/WhatsApp%20Image%202026-03-16%20at%2012.13.19%20AM.jpeg)
 
 
 b.  KCL:
