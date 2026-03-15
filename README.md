@@ -68,7 +68,7 @@ a.   KVL:
 ![img alt](https://github.com/manobalamanobala47-code/EXP-1/blob/main/WhatsApp%20Image%202026-03-16%20at%2012.18.12%20AM.jpeg)
 
 b.  KCL:
-![img alt]()
+![img alt](https://github.com/manobalamanobala47-code/EXP-1/blob/main/WhatsApp%20Image%202026-03-16%20at%2012.18.55%20AM.jpeg)
 
 
 RESULT:
