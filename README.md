@@ -44,20 +44,20 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
- 
+ ![img alt](https://github.com/manobalamanobala47-code/EXP-1/blob/main/kvl.png)
 
-
+![img alt]()
 b.  KCL:
- 
-
+ ![img alt]()
+![img alt]()
 Calculation:
 
 a.   KVL:
- 
+ ![img alt]()
 
 
 b.  KCL:
-
+![img alt]()
 
 
 
@@ -65,10 +65,10 @@ Tabulation:
 
 a.   KVL:
  
-
+![img alt]()
 
 b.  KCL:
-
+![img alt]()
 
 
 RESULT:
